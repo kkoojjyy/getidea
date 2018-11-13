@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/disk/home/idea/source/idea/plugins/maven/lib/maven3/bin/mvn" timestamp="1542093069852" />
       <file name="/Volumes/b/dev/code/gitlab.com/docker-machine/get.sh" timestamp="1542040221789">
         <mark key="[" line="3" column="56" />
         <mark key="]" line="3" column="56" />
@@ -33,12 +34,6 @@
       <file name="/Volumes/code/testpath/gitlab.com/basebox/get.sh" timestamp="1541902338007">
         <mark key="[" line="0" column="18" />
       </file>
-      <file name="/Volumes/b/dev/code/gitlab.com/basebox/get.sh" timestamp="1542044902875">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="/Volumes/code/testpath/gitlab.com/vagrant/get.sh" timestamp="1541901044366">
         <mark key="[" line="2" column="56" />
       </file>
@@ -54,6 +49,9 @@
       <file name="/Volumes/code/testpath/gitlab.com/selenium/get.sh" timestamp="1541903572127">
         <mark key="[" line="0" column="18" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1542093591120">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/b/dev/code/gitlab.com/basebox/terraform/Vagrantfile" timestamp="1541987984445">
         <mark key="[" line="101" column="2" />
         <mark key="]" line="101" column="2" />
@@ -65,7 +63,7 @@
       <file name="/Volumes/b/dev/code/gitlab.com/anaconda/setup/get.sh" timestamp="1542052826093">
         <mark key="[" line="3" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542085957078">
+      <file name="/Dummy.txt" timestamp="1542092856702">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -119,6 +117,9 @@
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
+      </file>
+      <file name="/fragment.java" timestamp="1542093677739">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>

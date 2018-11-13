@@ -1,5 +1,9 @@
 <application>
   <component name="UISettings">
+    <option name="FONT_SCALE" value="1.0" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="2" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SORT_BOOKMARKS" value="true" />
   </component>
 </application>
