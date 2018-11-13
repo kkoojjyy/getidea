@@ -12,6 +12,18 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-4.2.10/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.2.1, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-5.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-5.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="atomos (v0.1.3, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -36,6 +48,29 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="builder (v3.2.3, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/doc" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/doc" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/doc" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/rakelib" />
+      </excluded>
     </library>
     <library name="bundle (v0.0.1, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
@@ -370,6 +405,23 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="concurrent-ruby (v1.1.3, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.3/ext" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.3/ext" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.3/ext" />
+      </excluded>
+    </library>
     <library name="cri (v2.15.2, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -437,6 +489,23 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/diff-lcs-1.3/docs" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/diff-lcs-1.3/spec" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/diff-lcs-1.3/autotest" />
+      </excluded>
+    </library>
+    <library name="erubi (v1.7.1, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/erubi-1.7.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/erubi-1.7.1/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/erubi-1.7.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/erubi-1.7.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/erubi-1.7.1/test" />
       </excluded>
     </library>
     <library name="escape (v0.0.4, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -672,6 +741,26 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.5/gemfiles" />
       </excluded>
     </library>
+    <library name="i18n (v1.0.1, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-1.0.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-1.0.1/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-1.0.1/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-1.0.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-1.0.1/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-1.0.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-1.0.1/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-1.0.1/gemfiles" />
+      </excluded>
+    </library>
     <library name="io-console (v0.4.5, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -775,6 +864,23 @@
       <excluded>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mini_portile2-2.3.0/test" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mini_portile2-2.3.0/concourse" />
+      </excluded>
+    </library>
+    <library name="minitest (v5.11.3, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/minitest-5.11.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/minitest-5.11.3/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/minitest-5.11.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/minitest-5.11.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/minitest-5.11.3/test" />
       </excluded>
     </library>
     <library name="minitest (v5.8.5, ruby-2.3.7-p456) [gem]" type="rubylib">
