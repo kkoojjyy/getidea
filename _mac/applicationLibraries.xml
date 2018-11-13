@@ -1,11 +1,11 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.6 (idea) interpreter library">
+    <library name="Python 3.7 interpreter library">
       <CLASSES>
-        <root url="file:///Volumes/disk/home/sdk/conda/anaconda3/envs/idea/lib/python3.6" />
-        <root url="file:///Volumes/disk/home/sdk/conda/anaconda3/envs/idea/lib/python3.6/lib-dynload" />
-        <root url="file:///Volumes/disk/home/sdk/conda/anaconda3/envs/idea/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-531909982" />
+        <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/local/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -15,10 +15,10 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///Volumes/disk/home/sdk/conda/anaconda3/envs/idea/lib/python3.6" />
-        <root url="file:///Volumes/disk/home/sdk/conda/anaconda3/envs/idea/lib/python3.6/lib-dynload" />
-        <root url="file:///Volumes/disk/home/sdk/conda/anaconda3/envs/idea/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-531909982" />
+        <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/local/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
