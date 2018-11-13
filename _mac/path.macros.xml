@@ -1,0 +1,10 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="JAVA-BIN" value="/Volumes/runtime/sdk/jdk/jdk8-mac/bin" />
+    <macro name="JAVA-JRA" value="/Volumes/runtime/sdk/jdk/jdk8-mac/jar" />
+    <macro name="JAVA-LIB" value="/Volumes/runtime/sdk/jdk/jdk8-mac/lib" />
+    <macro name="JAVA_HOME" value="/Volumes/runtime/sdk/jdk/jdk8-mac" />
+    <macro name="KOTLIN_BUNDLED" value="/Volumes/b/bin/ide/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="/Users/idea/.m2/repository" />
+  </component>
+</application>

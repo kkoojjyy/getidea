@@ -1,0 +1,192 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Volumes/b/dev/code/gitlab.com/docker-machine/get.sh" timestamp="1542040221789">
+        <mark key="[" line="3" column="56" />
+        <mark key="]" line="3" column="56" />
+        <mark key="." line="3" column="56" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/basebox/README.md" timestamp="1541969781651">
+        <mark key="[" line="2" column="4" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/jupyter-hub/get.sh" timestamp="1542051012669">
+        <mark key="[" line="2" column="82" />
+        <mark key="]" line="2" column="82" />
+        <mark key="." line="2" column="82" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/jupyter-hub/README.md" timestamp="1542050884608">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="29" />
+      </file>
+      <file name="/Volumes/code/testpath/gitlab.com/vagrant/plugin.sh" timestamp="1541930128285">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/docker-machine/get-machine.sh" timestamp="1542047049319">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="/Volumes/disk/home/idea/source/tar.sh" timestamp="1542062036443">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="/Volumes/code/testpath/gitlab.com/basebox/get.sh" timestamp="1541902338007">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/basebox/get.sh" timestamp="1542044902875">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/Volumes/code/testpath/gitlab.com/vagrant/get.sh" timestamp="1541901044366">
+        <mark key="[" line="2" column="56" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/docker-machine/setup.sh" timestamp="1542038429020">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/jupyter-hub/conda-init.sh" timestamp="1542055118800">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="/Volumes/disk/home/idea/source/tarin.sh" timestamp="1542062499951">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="/Volumes/code/testpath/gitlab.com/selenium/get.sh" timestamp="1541903572127">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/basebox/terraform/Vagrantfile" timestamp="1541987984445">
+        <mark key="[" line="101" column="2" />
+        <mark key="]" line="101" column="2" />
+        <mark key="." line="101" column="2" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/vagrant/get.sh" timestamp="1542001886094">
+        <mark key="[" line="18" column="19" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/anaconda/setup/get.sh" timestamp="1542052826093">
+        <mark key="[" line="3" column="73" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1542085957078">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/basebox/terraform/Vagrantfile.bbak" timestamp="1541954766821">
+        <mark key="[" line="71" column="3" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/selenium/get.sh" timestamp="1542053973483">
+        <mark key="[" line="5" column="66" />
+      </file>
+      <file name="/Volumes/b/dev/code/github.com/repo2docker/Vagrantfile" timestamp="1541988005840">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/selenium/macstart.sh" timestamp="1541994510168">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/selenium/config.sh" timestamp="1541994307718">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="/Volumes/disk/home/idea/get.sh" timestamp="1542085819254">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/macbin/src/get-gofabric8.sh" timestamp="1542068574128">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/vagrant/vagrant/Vagrantfile" timestamp="1542047573920">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/gohome/get.sh" timestamp="1542057243226">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/basebox/.gitmodules" timestamp="1542044893627">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Volumes/b/dev/code/github.com/tellform/Vagrantfile" timestamp="1541984573918">
+        <mark key="[" line="11" column="33" />
+      </file>
+      <file name="/Volumes/b/dev/code/gitlab.com/macbin/get.sh" timestamp="1542050332423">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="/Volumes/disk/home/idea/source/taropen.sh" timestamp="1542062591559">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="5" column="0" filename="/Volumes/b/dev/code/gitlab.com/basebox/get.sh" />
+      <jump line="76" column="4" filename="/Volumes/b/dev/code/gitlab.com/basebox/terraform/Vagrantfile" />
+      <jump line="0" column="6" filename="/Dummy.txt" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">CndnZXQgLWMgaHR0cHM6Ly93d3cuamV0YnJhaW5zLmNvbS9pZGVhL2Rvd25sb2FkL2Rvd25sb2FkLXRoYW5rcy5odG1sP3BsYXRmb3JtPW1hYw==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>-2018.2.5.tar</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLSAK5L2c6ICF77ya5piT55Sf5LiA5LiWIArmnaXmupDvvJpDU0ROIArljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvdGFpeWFuZ2Rhby9hcnRpY2xlL2RldGFpbHMvNzA4NTA0MjggCueJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQ==</text>
+      </register>
+      <register name="3" type="4">
+        <text>[submodule &quot;teleport&quot;]
+	path = teleport
+	url = https://github.com/kkoojjyy/teleport.git</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CmdpdCBzdWJtb2R1bGUgYWRk</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgIyBEaXNhYmxlIGF1dG9tYXRpYyBib3ggdXBkYXRlIGNoZWNraW5nLiBJZiB5b3UgZGlzYWJsZSB0aGlzLCB0aGVuCiAgIyBib3hlcyB3aWxsIG9ubHkgYmUgY2hlY2tlZCBmb3IgdXBkYXRlcyB3aGVuIHRoZSB1c2VyIHJ1bnMKICAjIGB2YWdyYW50IGJveCBvdXRkYXRlZGAuIFRoaXMgaXMgbm90IHJlY29tbWVuZGVkLgogICMgY29uZmlnLnZtLmJveF9jaGVja191cGRhdGUgPSBmYWxzZQoKICAjIENyZWF0ZSBhIGZvcndhcmRlZCBwb3J0IG1hcHBpbmcgd2hpY2ggYWxsb3dzIGFjY2VzcyB0byBhIHNwZWNpZmljIHBvcnQKICAjIHdpdGhpbiB0aGUgbWFjaGluZSBmcm9tIGEgcG9ydCBvbiB0aGUgaG9zdCBtYWNoaW5lLiBJbiB0aGUgZXhhbXBsZSBiZWxvdywKICAjIGFjY2Vzc2luZyAibG9jYWxob3N0OjgwODAiIHdpbGwgYWNjZXNzIHBvcnQgODAgb24gdGhlIGd1ZXN0IG1hY2hpbmUuCiAgIyBOT1RFOiBUaGlzIHdpbGwgZW5hYmxlIHB1YmxpYyBhY2Nlc3MgdG8gdGhlIG9wZW5lZCBwb3J0CiAgIyBjb25maWcudm0ubmV0d29yayAiZm9yd2FyZGVkX3BvcnQiLCBndWVzdDogODAsIGhvc3Q6IDgwODAKCiAgIyBDcmVhdGUgYSBmb3J3YXJkZWQgcG9ydCBtYXBwaW5nIHdoaWNoIGFsbG93cyBhY2Nlc3MgdG8gYSBzcGVjaWZpYyBwb3J0CiAgIyB3aXRoaW4gdGhlIG1hY2hpbmUgZnJvbSBhIHBvcnQgb24gdGhlIGhvc3QgbWFjaGluZSBhbmQgb25seSBhbGxvdyBhY2Nlc3MKICAjIHZpYSAxMjcuMC4wLjEgdG8gZGlzYWJsZSBwdWJsaWMgYWNjZXNzCiAgIyBjb25maWcudm0ubmV0d29yayAiZm9yd2FyZGVkX3BvcnQiLCBndWVzdDogODAsIGhvc3Q6IDgwODAsIGhvc3RfaXA6ICIxMjcuMC4wLjEiCgogICMgQ3JlYXRlIGEgcHJpdmF0ZSBuZXR3b3JrLCB3aGljaCBhbGxvd3MgaG9zdC1vbmx5IGFjY2VzcyB0byB0aGUgbWFjaGluZQogICMgdXNpbmcgYSBzcGVjaWZpYyBJUC4KICAjIGNvbmZpZy52bS5uZXR3b3JrICJwcml2YXRlX25ldHdvcmsiLCBpcDogIjE5Mi4xNjguMzMuMTAiCgogICMgQ3JlYXRlIGEgcHVibGljIG5ldHdvcmssIHdoaWNoIGdlbmVyYWxseSBtYXRjaGVkIHRvIGJyaWRnZWQgbmV0d29yay4KICAjIEJyaWRnZWQgbmV0d29ya3MgbWFrZSB0aGUgbWFjaGluZSBhcHBlYXIgYXMgYW5vdGhlciBwaHlzaWNhbCBkZXZpY2Ugb24KICAjIHlvdXIgbmV0d29yay4KICAjIGNvbmZpZy52bS5uZXR3b3JrICJwdWJsaWNfbmV0d29yayIKCiAgIyBTaGFyZSBhbiBhZGRpdGlvbmFsIGZvbGRlciB0byB0aGUgZ3Vlc3QgVk0uIFRoZSBmaXJzdCBhcmd1bWVudCBpcwogICMgdGhlIHBhdGggb24gdGhlIGhvc3QgdG8gdGhlIGFjdHVhbCBmb2xkZXIuIFRoZSBzZWNvbmQgYXJndW1lbnQgaXMKICAjIHRoZSBwYXRoIG9uIHRoZSBndWVzdCB0byBtb3VudCB0aGUgZm9sZGVyLiBBbmQgdGhlIG9wdGlvbmFsIHRoaXJkCiAgIyBhcmd1bWVudCBpcyBhIHNldCBvZiBub24tcmVxdWlyZWQgb3B0aW9ucy4KICAjIGNvbmZpZy52bS5zeW5jZWRfZm9sZGVyICIuLi9kYXRhIiwgIi92YWdyYW50X2RhdGEiCgogICMgUHJvdmlkZXItc3BlY2lmaWMgY29uZmlndXJhdGlvbiBzbyB5b3UgY2FuIGZpbmUtdHVuZSB2YXJpb3VzCiAgIyBiYWNraW5nIHByb3ZpZGVycyBmb3IgVmFncmFudC4gVGhlc2UgZXhwb3NlIHByb3ZpZGVyLXNwZWNpZmljIG9wdGlvbnMuCiAgIyBFeGFtcGxlIGZvciBWaXJ0dWFsQm94OgogICMKICAjIGNvbmZpZy52bS5wcm92aWRlciAidmlydHVhbGJveCIgZG8gfHZifAogICMgICAjIERpc3BsYXkgdGhlIFZpcnR1YWxCb3ggR1VJIHdoZW4gYm9vdGluZyB0aGUgbWFjaGluZQogICMgICB2Yi5ndWkgPSB0cnVlCiAgIwogICMgICAjIEN1c3RvbWl6ZSB0aGUgYW1vdW50IG9mIG1lbW9yeSBvbiB0aGUgVk06CiAgIyAgIHZiLm1lbW9yeSA9ICIxMDI0IgogICMgZW5kCiAgIwogICMgVmlldyB0aGUgZG9jdW1lbnRhdGlvbiBmb3IgdGhlIHByb3ZpZGVyIHlvdSBhcmUgdXNpbmcgZm9yIG1vcmUKICAjIGluZm9ybWF0aW9uIG9uIGF2YWlsYWJsZSBvcHRpb25zLgoKICAjIEVuYWJsZSBwcm92aXNpb25pbmcgd2l0aCBhIHNoZWxsIHNjcmlwdC4gQWRkaXRpb25hbCBwcm92aXNpb25lcnMgc3VjaCBhcwogICMgUHVwcGV0LCBDaGVmLCBBbnNpYmxlLCBTYWx0LCBhbmQgRG9ja2VyIGFyZSBhbHNvIGF2YWlsYWJsZS4gUGxlYXNlIHNlZSB0aGUKICAjIGRvY3VtZW50YXRpb24gZm9yIG1vcmUgaW5mb3JtYXRpb24gYWJvdXQgdGhlaXIgc3BlY2lmaWMgc3ludGF4IGFuZCB1c2UuCiAgIyBjb25maWcudm0ucHJvdmlzaW9uICJzaGVsbCIsIGlubGluZTogPDwtU0hFTEwKICAjICAgYXB0LWdldCB1cGRhdGUKICAjICAgYXB0LWdldCBpbnN0YWxsIC15IGFwYWNoZTIKICAjIFNIRUxM</text>
+      </register>
+      <register name="6" type="4">
+        <text>config.vm.provider &quot;parallels&quot; do |prl|
+    prl.memory = &quot;#{RAM}&quot;
+    prl.cpus = &quot;#{CPUCOUNT}&quot;
+  end</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAjIFRoZSBtb3N0IGNvbW1vbiBjb25maWd1cmF0aW9uIG9wdGlvbnMgYXJlIGRvY3VtZW50ZWQgYW5kIGNvbW1lbnRlZCBiZWxvdy4KICAjIEZvciBhIGNvbXBsZXRlIHJlZmVyZW5jZSwgcGxlYXNlIHNlZSB0aGUgb25saW5lIGRvY3VtZW50YXRpb24gYXQKICAjIGh0dHBzOi8vZG9jcy52YWdyYW50dXAuY29tLgoKICAjIEV2ZXJ5IFZhZ3JhbnQgZGV2ZWxvcG1lbnQgZW52aXJvbm1lbnQgcmVxdWlyZXMgYSBib3guIFlvdSBjYW4gc2VhcmNoIGZvcgogICMgYm94ZXMgYXQgaHR0cHM6Ly92YWdyYW50Y2xvdWQuY29tL3NlYXJjaC4=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAjCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAjIGNvbmZpZy52bS5wcm92aWRlciAidmlydHVhbGJveCIgZG8gfHZifAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>-2018.2.5.tar</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxjb25maWdcPg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxjb25maWdcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxjb25maWdcPg==</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxjb25maWdcPg==</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
