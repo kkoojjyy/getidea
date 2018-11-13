@@ -494,6 +494,18 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/faraday-0.13.1/lib" />
       </SOURCES>
     </library>
+    <library name="faraday_middleware (v0.12.2, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/faraday_middleware-0.12.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/faraday_middleware-0.12.2/lib" />
+      </SOURCES>
+    </library>
     <library name="fast_gettext (v1.1.2, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
