@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/disk/home/idea/source/idea/plugins/maven/lib/maven3/bin/mvn" timestamp="1542093069852" />
       <file name="/Volumes/b/dev/code/gitlab.com/docker-machine/get.sh" timestamp="1542040221789">
         <mark key="[" line="3" column="56" />
         <mark key="]" line="3" column="56" />
@@ -63,7 +62,7 @@
       <file name="/Volumes/b/dev/code/gitlab.com/anaconda/setup/get.sh" timestamp="1542052826093">
         <mark key="[" line="3" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542092856702">
+      <file name="/Dummy.txt" timestamp="1542095661064">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
       </file>
