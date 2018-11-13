@@ -11,6 +11,7 @@
         <mark key="]" line="3" column="56" />
         <mark key="." line="3" column="56" />
       </file>
+      <file name="/Volumes/b/tools/mactools/gitsome/README.md" timestamp="1542126040231" />
       <file name="/Volumes/b/dev/code/gitlab.com/basebox/README.md" timestamp="1541969781651">
         <mark key="[" line="2" column="4" />
       </file>
@@ -71,6 +72,9 @@
       <file name="/Volumes/b/dev/code/gitlab.com/vagrant/get.sh" timestamp="1542001886094">
         <mark key="[" line="18" column="19" />
       </file>
+      <file name="/Volumes/b/tools/mactools/gitsome/tox.ini" timestamp="1542125555656">
+        <mark key="[" line="6" column="19" />
+      </file>
       <file name="/Volumes/b/dev/code/gitlab.com/anaconda/setup/get.sh" timestamp="1542052826093">
         <mark key="[" line="3" column="73" />
       </file>
@@ -107,6 +111,9 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="/setup.py" timestamp="1542125533924">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/b/dev/code/gitlab.com/macbin/src/get-gofabric8.sh" timestamp="1542068574128">
         <mark key="[" line="0" column="18" />
