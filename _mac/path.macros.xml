@@ -3,7 +3,7 @@
     <macro name="CLASS_HOME" value="/Volumes/disk/home/sdk/sdk/jdk/jdk8-mac/jre:/Volumes/disk/home/sdk/sdk/jdk/jdk8-mac/lib" />
     <macro name="GOPATH" value="/Volumes/disk/home/gopath" />
     <macro name="JAVA_HOME" value="/Volumes/disk/home/sdk/sdk/jdk/jdk8-mac" />
-    <macro name="KOTLIN_BUNDLED" value="/Volumes/b/bin/ide/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/idea/Library/Application Support/IntelliJIdea2018.2/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="/Users/idea/.m2/repository" />
   </component>
 </application>
